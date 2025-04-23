@@ -6,5 +6,3 @@ This project processes retail sales data using Hadoop MapReduce. It calculates t
 - **Mapper**: Extracts sales data per line.
 - **Reducer**: Aggregates total sales per retailer-city combination.
 - **DriverClass**: Coordinates the job setup and execution.
-
-## 📁 Data Example
